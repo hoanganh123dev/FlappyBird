@@ -1,0 +1,28 @@
+E:\C#\New folder\MVCTEST\DAL\bin\Debug\DAL.dll
+E:\C#\New folder\MVCTEST\DAL\bin\Debug\DAL.pdb
+E:\C#\New folder\MVCTEST\DAL\bin\Debug\DTO.dll
+E:\C#\New folder\MVCTEST\DAL\bin\Debug\DTO.pdb
+E:\C#\New folder\MVCTEST\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\C#\New folder\MVCTEST\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\C#\New folder\MVCTEST\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\C#\New folder\MVCTEST\DAL\obj\Debug\DAL.dll
+E:\C#\New folder\MVCTEST\DAL\obj\Debug\DAL.pdb
+C:\Users\HP PAVILION\Downloads\MVCTEST\DAL\bin\Debug\DAL.dll
+C:\Users\HP PAVILION\Downloads\MVCTEST\DAL\bin\Debug\DAL.pdb
+C:\Users\HP PAVILION\Downloads\MVCTEST\DAL\bin\Debug\DTO.dll
+C:\Users\HP PAVILION\Downloads\MVCTEST\DAL\bin\Debug\DTO.pdb
+C:\Users\HP PAVILION\Downloads\MVCTEST\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\HP PAVILION\Downloads\MVCTEST\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP PAVILION\Downloads\MVCTEST\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\HP PAVILION\Downloads\MVCTEST\DAL\obj\Debug\DAL.dll
+C:\Users\HP PAVILION\Downloads\MVCTEST\DAL\obj\Debug\DAL.pdb
+D:\Đồ Án Winform 1\MVCTEST\DAL\bin\Debug\DAL.dll
+D:\Đồ Án Winform 1\MVCTEST\DAL\bin\Debug\DAL.pdb
+D:\Đồ Án Winform 1\MVCTEST\DAL\bin\Debug\DTO.dll
+D:\Đồ Án Winform 1\MVCTEST\DAL\bin\Debug\DTO.pdb
+D:\Đồ Án Winform 1\MVCTEST\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Đồ Án Winform 1\MVCTEST\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Đồ Án Winform 1\MVCTEST\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Đồ Án Winform 1\MVCTEST\DAL\obj\Debug\DAL.dll
+D:\Đồ Án Winform 1\MVCTEST\DAL\obj\Debug\DAL.pdb
+C:\Users\HP PAVILION\Downloads\MVCTEST\DAL\bin\Debug\DTO.dll.config

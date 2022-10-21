@@ -1,0 +1,34 @@
+E:\C#\New folder\MVCTEST\BAL\bin\Debug\BAL.dll
+E:\C#\New folder\MVCTEST\BAL\bin\Debug\BAL.pdb
+E:\C#\New folder\MVCTEST\BAL\bin\Debug\DAL.dll
+E:\C#\New folder\MVCTEST\BAL\bin\Debug\DTO.dll
+E:\C#\New folder\MVCTEST\BAL\bin\Debug\DAL.pdb
+E:\C#\New folder\MVCTEST\BAL\bin\Debug\DTO.pdb
+E:\C#\New folder\MVCTEST\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+E:\C#\New folder\MVCTEST\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+E:\C#\New folder\MVCTEST\BAL\obj\Debug\BAL.csproj.CopyComplete
+E:\C#\New folder\MVCTEST\BAL\obj\Debug\BAL.dll
+E:\C#\New folder\MVCTEST\BAL\obj\Debug\BAL.pdb
+C:\Users\HP PAVILION\Downloads\MVCTEST\BAL\bin\Debug\BAL.dll
+C:\Users\HP PAVILION\Downloads\MVCTEST\BAL\bin\Debug\BAL.pdb
+C:\Users\HP PAVILION\Downloads\MVCTEST\BAL\bin\Debug\DAL.dll
+C:\Users\HP PAVILION\Downloads\MVCTEST\BAL\bin\Debug\DTO.dll
+C:\Users\HP PAVILION\Downloads\MVCTEST\BAL\bin\Debug\DAL.pdb
+C:\Users\HP PAVILION\Downloads\MVCTEST\BAL\bin\Debug\DTO.pdb
+C:\Users\HP PAVILION\Downloads\MVCTEST\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Users\HP PAVILION\Downloads\MVCTEST\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\HP PAVILION\Downloads\MVCTEST\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\HP PAVILION\Downloads\MVCTEST\BAL\obj\Debug\BAL.dll
+C:\Users\HP PAVILION\Downloads\MVCTEST\BAL\obj\Debug\BAL.pdb
+D:\Đồ Án Winform 1\MVCTEST\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+D:\Đồ Án Winform 1\MVCTEST\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+D:\Đồ Án Winform 1\MVCTEST\BAL\obj\Debug\BAL.dll
+D:\Đồ Án Winform 1\MVCTEST\BAL\obj\Debug\BAL.pdb
+D:\Đồ Án Winform 1\MVCTEST\BAL\bin\Debug\BAL.dll
+D:\Đồ Án Winform 1\MVCTEST\BAL\bin\Debug\BAL.pdb
+D:\Đồ Án Winform 1\MVCTEST\BAL\bin\Debug\DAL.dll
+D:\Đồ Án Winform 1\MVCTEST\BAL\bin\Debug\DTO.dll
+D:\Đồ Án Winform 1\MVCTEST\BAL\bin\Debug\DAL.pdb
+D:\Đồ Án Winform 1\MVCTEST\BAL\bin\Debug\DTO.pdb
+D:\Đồ Án Winform 1\MVCTEST\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\HP PAVILION\Downloads\MVCTEST\BAL\bin\Debug\DTO.dll.config
